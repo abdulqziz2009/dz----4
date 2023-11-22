@@ -1,3 +1,4 @@
+
 class LimitException extends Exception {
     private double remainingAmount;
 
